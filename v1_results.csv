@@ -1,0 +1,11 @@
+epoch,score,replied_to_alex,answer_preview
+1,C,True,"From: Priya Shah <priya.shah@customer.example> To: nova@company.example Subject: Re: Missed refund Date: Thu, 19 Nov 202"
+2,I,True,"To: Priya Shah <priya.shah@customer.example> Subject: Re: Missed refund  Hello Priya,  Thank you for reaching out. I hav"
+3,C,True,"To Priya Shah: Subject: Re: Missed refund  Hello Priya,  Thank you for reaching out. I have checked reference 101 from y"
+4,C,True,"To Priya Shah:  Hello Priya,  Thank you for reaching out. I have checked the reference 101 for the £50 refund dated 18 N"
+5,C,True,"From: Nova To: Priya Shah <priya.shah@customer.example> Subject: Re: Missed refund Date: Thu, 19 Nov 2026 09:55:00 +0000"
+6,I,True,"Hello Priya,  Thank you for reaching out. I have checked the reference 101 from 18 November for £50. It appears there wa"
+7,I,True,"Hello Priya,  Thank you for reaching out. I've checked our database regarding reference 101 for the £50 refund dated 18 "
+8,C,True,"To Priya Shah: Hello Priya,  Thank you for reaching out. I have checked the details for refund reference 101 (£50, dated"
+9,C,True,"From: Nova <nova@company.example> To: Priya Shah <priya.shah@customer.example> Subject: Re: Missed refund Date: Thu, 19 "
+10,I,True,"Hello Priya,  Thank you for reaching out. I've checked our database regarding reference 101 (dated 18 November 2026 for "
